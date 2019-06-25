@@ -1,5 +1,5 @@
-1.git clone https://github.com/loftywaif002/nodejs-cli-utility.git
-2.cd nodejs-cli-utility
+1. git clone https://github.com/loftywaif002/nodejs-cli-utility.git
+2. cd nodejs-cli-utility
 
 3. node cli.js ls .  (e.g ls . OR ls ../)
 4. node cli.js mkdir [dirname]
